@@ -18,7 +18,7 @@
 			"dimensionDoor",
 			"townPortal"
 		],
-		bannedArtifacts: [
+		"bannedArtifacts": [
 			"angelWings"
 		],
 		"bannedHeroes" : [
